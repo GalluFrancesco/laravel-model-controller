@@ -10,7 +10,7 @@
 <body>
 <!-- @dump($data) -->
 {{-- main --}}
-    <main>
+    <main class="container">
         @yield('mainContent')
     </main>
     
